@@ -1,0 +1,9 @@
+C:\Users\FU\Desktop\AntraCode\Github\CFAParse\CFAServices\bin\Debug\CFAServices.dll
+C:\Users\FU\Desktop\AntraCode\Github\CFAParse\CFAServices\bin\Debug\CFAServices.pdb
+C:\Users\FU\Desktop\AntraCode\Github\CFAParse\CFAServices\bin\Debug\CFAEntities.dll
+C:\Users\FU\Desktop\AntraCode\Github\CFAParse\CFAServices\bin\Debug\CFAEntities.pdb
+C:\Users\FU\Desktop\AntraCode\Github\CFAParse\CFAServices\obj\Debug\CFAServices.csprojAssemblyReference.cache
+C:\Users\FU\Desktop\AntraCode\Github\CFAParse\CFAServices\obj\Debug\CFAServices.csproj.CoreCompileInputs.cache
+C:\Users\FU\Desktop\AntraCode\Github\CFAParse\CFAServices\obj\Debug\CFAServices.csproj.CopyComplete
+C:\Users\FU\Desktop\AntraCode\Github\CFAParse\CFAServices\obj\Debug\CFAServices.dll
+C:\Users\FU\Desktop\AntraCode\Github\CFAParse\CFAServices\obj\Debug\CFAServices.pdb

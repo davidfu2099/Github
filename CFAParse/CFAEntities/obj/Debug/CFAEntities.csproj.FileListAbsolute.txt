@@ -1,0 +1,5 @@
+C:\Users\FU\Desktop\AntraCode\Github\CFAParse\CFAEntities\bin\Debug\CFAEntities.dll
+C:\Users\FU\Desktop\AntraCode\Github\CFAParse\CFAEntities\bin\Debug\CFAEntities.pdb
+C:\Users\FU\Desktop\AntraCode\Github\CFAParse\CFAEntities\obj\Debug\CFAEntities.csproj.CoreCompileInputs.cache
+C:\Users\FU\Desktop\AntraCode\Github\CFAParse\CFAEntities\obj\Debug\CFAEntities.dll
+C:\Users\FU\Desktop\AntraCode\Github\CFAParse\CFAEntities\obj\Debug\CFAEntities.pdb
